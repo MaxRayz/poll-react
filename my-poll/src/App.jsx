@@ -9,6 +9,7 @@ const App = () => {
     { option: 'Fish', count: 0 },
     { option: 'Pig', count: 0 },
     { option: 'Bird', count: 0 },
+    { option: 'Rat', count: 0 },
     { option: 'Guinea Pig', count: 0 },
     { option: 'Hamster', count: 0 },
     { option: 'Human(???)', count: 0 }
